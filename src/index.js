@@ -4,6 +4,16 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
+// bootstrap link
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+//bootstrap javascript link
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
+// icon cdn link
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

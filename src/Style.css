@@ -1,0 +1,299 @@
+.nav-bgcolor{
+    background-color: rgb(240, 169, 38);
+}
+
+.mr-medium{
+    margin-right: 72px;
+    font-family: sans-serif;
+    font-style: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 11px;
+}
+.nav-link {
+     display:contents !important;
+}
+
+.nav-bar-link{
+    text-decoration: none;
+    color: black; 
+}
+
+.ml-heart{
+    margin-left: 22px;
+    margin-top: 17px;
+    font-size: 33px;
+    margin-bottom: 14px;
+}
+
+.nav-link{
+    color:black !important;
+    margin-top: 20px;
+}
+
+.getstarted{
+    border-radius: 23px;
+    /* padding:8px 12px 8px 12px; */
+    padding: 9px 14px 9px 14px;
+     /* top right bottom left */
+    background-color: black;
+    color:white;
+    
+}
+
+.slider-hw{
+    height:500px;
+
+}
+
+.ml-mt{
+    margin-top:30px;
+      /* top right bottom left */
+      margin-left: 70px;
+      text-align:end;
+}
+
+.tMedium-mr-mt{
+    margin-top:25px;
+    text-align: left;
+    font-weight:bold; 
+    
+}
+
+.bgcolor{
+    background-color:rgb(236, 235, 235);
+}
+
+.welcome-pt{
+    padding-top: 75px;
+    margin-left: 690px;
+}
+
+.from-hw{
+    width:510px;
+    height:360px;
+    margin:50px 0px 50px 550px;
+    /* top right bottom left */
+    padding: 60px 45px 60px 45px;
+     /* top right bottom left */
+    border-radius: 45px;
+    background-color:#FFFFFF;
+}
+
+.form-label{
+    justify-content: left !important;
+}
+
+.login-hw{
+    border: 1px solid #FFFFFF; 
+    padding:8px 70px 8px 70px;
+    margin-top: 20px;
+    margin-left: 115px;
+    border-radius: 16px;
+    background-color:rgb(80, 115, 221);
+    color:#FFFFFF;
+}
+
+.bottom-border {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+.signin-pb{
+    padding-bottom: 200px; 
+    margin-left: 690px;
+    /* margin: 0px 0px 0px 500px; */
+    margin-left: 685px;
+
+}
+
+.signin-link{
+    text-decoration: none;
+    color:rgb(63, 63, 236);
+}
+
+.form-label{
+    font-weight:700 !important;
+}
+  
+.signup-bgcolor{
+    background-color:rgb(236, 235, 235);
+}
+
+.Signup-mt{ 
+    padding-top:15px;
+    margin:0px 0px 0px 765px;
+}   
+.signup-hw{
+    width:700px;  
+    border:none;
+    border-radius:11px;
+    padding:40px 45px 40px 45px;
+    margin-left: 500px;
+    margin-top: 50px;
+    background-color:#FFFFFF;   
+}
+.signup-pt{
+    padding-top: 32px;
+    padding-bottom: 28px;
+    margin-left:700px;
+}
+
+.btn-primary{
+    border-radius: 15px !important; 
+    padding: 6px 25px 6px 25px !important;
+}
+
+.signup-link{
+    text-decoration: none;
+    color:rgb(63, 63, 236);
+}
+
+.fontstyle{
+    font-weight:700; 
+}
+
+.btn-ml{
+    margin-left: 185px;
+}
+
+.bg-color {
+    background-color: rgb(220, 223, 226);
+}
+
+.resetPass{
+    background-color: darkslategrey;
+    color:white;
+    padding:8px 22px 8px 22px;
+}
+
+.forgetPass-lm-p{       
+    height:500px;
+    width:800px;
+    padding-top: 60px;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+}
+
+.row-height{
+    height:84px;
+}   
+
+.text-hw{
+    height: 35px;
+    width: 350px;
+    border-radius: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.forgetpass{
+    text-align: center;
+}
+
+/* EmpRegisterForm */
+
+
+.input-hw{
+    border:1px solid rgb(187, 186, 186);
+    width:450px;
+    height:28px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    margin-left: 22px;
+    
+}
+
+.input-hw:focus {
+    border-bottom: 2px solid gray;
+ 
+} 
+.form-m-t{
+    margin-top: 10px;
+    padding:20px;
+    margin-left: 50px;
+    border:1px solid skyblue;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(2, 82, 82, 0.3);   
+}
+
+.radio-h-w{
+    display: flex;
+}
+
+.input-w{
+    width:17px;
+    margin-bottom: 8px;
+    margin-left:10px;
+}
+
+.radio-ml{
+    margin-left: 10px;
+}
+
+.error-color{
+    color:red;
+    font-size: 14px;
+    margin-left:22px;
+    font-weight: lighter;
+}
+
+.ml-gender-isEmpActive{
+    margin-left: 22px;
+}
+
+p{
+    margin-bottom: -1rem !important;
+}
+
+.empDetails{
+    font-weight: bold;
+    font-size: 28px;
+    padding: 18px 0px 0px 60px;
+
+}
+
+/* search icon */
+.input-container {
+  position: relative;
+  display: inline-block;
+ 
+}
+
+.search-icon {
+  position: absolute;
+  left: 27px; /* Adjust the left position based on your design */
+  top: 50%;
+  transform: translateY(-50%);
+  color: #8d8585; /* Adjust the color based on your design */
+  cursor: pointer;
+  margin-top: 13px;
+}
+
+.search-input {
+  padding-left: 37px; /* Adjust this value based on the icon size and positioning */
+  width:320px;
+  height:35px;
+  border-radius: 15px;
+  border:1px solid #afabab;
+  margin-top: 24px;
+  font-style:italic;
+  
+}
+
+.addNew-mt{
+    margin-top: 22px;
+    font-style:italic;
+     
+}
+
+table, th, td{
+    border:1px solid black;
+    border-collapse:collapse;
+    padding:2px;
+}
+
